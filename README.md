@@ -1,6 +1,7 @@
 # Blog
 
 Blog Making Project
+<br>
 Overview
 This project is a simple blog-making web application with user authentication, article management, and commenting functionality. It is built using the MERN stack (MongoDB, Express.js, React, Node.js), providing a full-stack solution for creating, reading, and interacting with blog content.
 
