@@ -2,8 +2,10 @@
 
 Blog Making Project
 <br>
-Overview
+
+Overview  <br>
 This project is a simple blog-making web application with user authentication, article management, and commenting functionality. It is built using the MERN stack (MongoDB, Express.js, React, Node.js), providing a full-stack solution for creating, reading, and interacting with blog content.
+
 
 Features
 User Authentication: Secure user registration and login functionality. <br>
@@ -15,15 +17,15 @@ Project Structure
 The project is organized into frontend and backend directories:
 
 Frontend (my-blog):  <br>
-
 React components for the homepage, article page, and user login.  <br>
 Utilizes React Router for navigation.  <br>
 Styled using CSS for a clean and responsive design.  <br>
-Backend (server):  <br>
 
+Backend (server):  <br>
 Node.js with Express for the server.  <br>
 MongoDB for data storage.  <br>
 JWT for user authentication.  <br>
+
 
 Acknowledgments  <br>
 This project was inspired by the desire to create a simple yet fully functional blog-making application.  <br>
