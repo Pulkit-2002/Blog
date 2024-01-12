@@ -1,7 +1,7 @@
 // scripts.js
 document.addEventListener("DOMContentLoaded", function() {
-    // Fetch and display recent articles on the homepage
-    // Add event listeners to handle article clicks and fetch full content
+    // To fetch and display recent articles on the homepage
+    // We can add event listeners to handle article clicks and fetch full content
 
-    // Fetch and display comments for the selected article
+    // To fetch and display comments for the selected article
 });
