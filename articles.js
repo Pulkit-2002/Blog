@@ -9,6 +9,6 @@ router.get('/protected', authenticateToken, (req, res) => {
     res.json({ message: 'This is a protected route' });
 });
 
-// Add more protected routes as needed
+// We can add more protected routes as needed
 
 module.exports = router;
